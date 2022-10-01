@@ -1,4 +1,6 @@
 # Price-Modelling_Kaggle-Competition
+## Intro
+The basic conept of the competition is to create models to predict the price of Airbnb listings in NY.
 
 Before digging into my data cleaning and prediction process, I would like to briefly explain why I found that the Kaggle competition has benefited my academic and professional career. I intend to become a player evaluation analyst in Major League Baseball, particularly for discovering young and overlooked talents, my responsibilities would include using R to create models and prepare data-driven reports to assess players’ abilities. As modern baseball is a combination of old school scouting and analytics, scouting reports are created by both traditional baseball language (e.g. This kid has enough raw juice to hit 30 bombs a year) and numbers (e.g. The pitcher has a 60 future value of his baseball), which I found parallel with out Kaggle Airbnb datasets. I will narrate further details and draw the connections I found fascinating in the rest of the report. <br/>
 
