@@ -4,7 +4,7 @@ Before digging into my data cleaning and prediction process, I would like to bri
 
 
 ## Data Exploration
-After reading the Airbnb datasets into R, I applied str() function to have a basic sense of all the variables and the corresponding datatypes.
+After <br/>reading the Airbnb datasets into R, I applied str() function to have a basic sense of all the variables and the corresponding datatypes.
 
 ## Data Preparation
 In this section, I will separate my data cleaning process mainly into three parts, “Converting numeric values into categorical variables”, “Creating text variables by discovering patterns from comments,” and “Creating dummy variables.”
